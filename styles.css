@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(31, 30, 30);
+    color: white;
+}
+
+.container {
+    text-align: center;
+    padding: 40px;
+    background-color: rgb(61, 73, 73);
+}
+
+.lists {
+    list-style-type: none;
+}
+
+a:link, a:visited {
+    color: red;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover, a:active {
+    color: rgb(201, 7, 7);
+    font-size: 18px;
+}
+
+.header {
+    color: red;
+}
